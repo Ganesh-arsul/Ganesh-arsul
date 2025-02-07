@@ -9,8 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ganesh-arsul&theme=matrix" alt="Ganesh-arsul" /></a> </p>
 
-- 🔭 I’m currently working on **[EcommerceProject](https://github.com/Ganesh-arsul/EcommerceProject)** and **[Car Dealer System](https://github.com/Ganesh-arsul/Car-Dealer-System)**
-
+- 🔭 I’m currently working on **[EcommerceProject](https://github.com/Ganesh-arsul/EcommerceProject)** 
 - 🌱 I’m currently learning **Angular, Java, Spring Boot** and expanding my skills as a Full Stack Developer.
 
 - 👯 I’m looking to collaborate on **Java-based Web Applications and Spring Boot Projects**.
