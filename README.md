@@ -1,129 +1,152 @@
-<p align="center">
-  <img src="rohan_banner.gif" alt="MasterHead" width="100%" />
-</p>
+# <p align="center">Hi 👋, I'm Ganesh Arsul</p>
 
-<h1 align="center">Hi 👋, I'm Ganesh Arsul</h1>
-<h3 align="center">Full Stack Java Developer from Pune, India 🇮🇳</h3>
+<h3 align="center">Software Developer | Java Full Stack Developer | Spring Boot | Angular | React.js</h3>
 
 <p align="center">
-  <a href="https://ganesharsul.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ganesharsul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-arsul&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-arsul&theme=algolia&margin-w=15&margin-h=15" alt="trophies" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on  
-  **E-Commerce Project using Spring Boot & Angular**
-
-- 🌱 Currently learning  
-  **Spring Boot, Angular, ReactJS, and .NET**
-
-- 👨‍💻 Portfolio Website  
-  **https://ganesharsul.com/**
-
-- 🤝 Looking to collaborate on  
-  **Java, Spring Boot, Angular, and Open Source Projects**
-
-- 💬 Ask me about  
-  **Java, Spring Boot, Angular, MySQL, REST APIs**
-
-- 📫 Reach me at  
-  **ganesharsul1234@gmail.com**
-
-- ⚡ Fun fact  
-  **I love building real-world projects and learning new technologies 🚀**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<a href="https://ganesharsul.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ganesh-arsul/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Ganesh-arsul" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://x.com/GaneshArsul1" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://ganesharsul.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-ganesharsul.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 👨‍💻 About Me
 
-<p align="left">
+I'm a **Software Developer** from Pune, India, passionate about building scalable full-stack applications using **Java, Spring Boot, Angular, and React.js**.
 
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
+* 🔭 Currently building **Enterprise Full Stack Applications**
+* 🌱 Learning **Microservices, Docker, and Cloud Technologies**
+* 💼 Interested in **Java Backend & Full Stack Development**
+* 💬 Ask me about **Java, Spring Boot, REST APIs, Angular, React, MySQL**
+* 📫 Email: **[ganesharsul1234@gmail.com](mailto:ganesharsul1234@gmail.com)**
+* 🌐 Portfolio: **https://ganesharsul.com**
 
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="45" height="45"/>
-</a>
+---
 
-<a href="https://angular.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
-</a>
+# 🛠 Tech Stack
 
-<a href="https://react.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-</a>
+### Languages
 
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="45" height="45"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,ts"/>
+</p>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
+### Backend
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 🛒 E-Commerce Platform
+
+**Spring Boot • Angular • MySQL**
+
+* JWT Authentication
+* Spring Security
+* Product & Category Management
+* Cart & Order Management
+* REST APIs
+
+---
+
+## ✈ Tours & Travels Management System
+
+**Spring Boot • React.js • MySQL**
+
+* Package Management
+* Booking System
+* Customer Management
+* REST APIs
+
+---
+
+## 💰 Expense Tracker
+
+**Spring Boot • React.js**
+
+* Income & Expense Tracking
+* Dashboard
+* Reports
+* CRUD Operations
+
+---
+
+## 🏥 Hospital Management System
+
+**Laravel • MySQL**
+
+* Appointment Management
+* Billing
+* Patient Records
+* Authentication
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-arsul&show_icons=true&theme=tokyonight" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ganesh-arsul&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-arsul&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-arsul&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-arsul&theme=tokyonight"/>
 </p>
 
+---
+
+# 📫 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-arsul&layout=compact&theme=tokyonight" alt="languages" />
+
+<a href="https://www.linkedin.com/in/ganesh-arsul/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ganesharsul.com">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="mailto:ganesharsul1234@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <h3 align="center">
-  ⭐ Code • Learn • Build • Repeat ⭐
+
+⭐ Java • Spring Boot • Angular • React • Build • Learn • Grow ⭐
+
 </h3>
